@@ -1,4 +1,4 @@
-# 🌶️ KVSPICE
+#🌶️ KVSPICE
 KVSpice is a premium online spice store offering a wide selection of high-quality spices, herbs, and seasonings. Our mission is to bring authentic, fresh, and flavorful spices from trusted sources directly to your kitchen.
 
 🚀 Features
